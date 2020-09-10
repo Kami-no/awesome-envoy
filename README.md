@@ -39,6 +39,10 @@ aka [Universal Dataplane API](https://blog.envoyproxy.io/the-universal-data-plan
 * [Gloo](https://www.solo.io/products/gloo/);
 * [Contour](https://projectcontour.io/);
 
+## Kubernetes CNI
+
+* [cilium](https://cilium.io/) - eBPF-based Networking, Security, and Observability;
+
 ## Service Mesh
 
 * [Istio](https://istio.io/);
